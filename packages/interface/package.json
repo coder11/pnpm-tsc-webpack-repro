@@ -1,0 +1,20 @@
+{
+  "name": "interface",
+  "version": "0.1.0",
+  "description": "interface",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "engines": {
+    "node": ">=10",
+    "pnpm": ">=3"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "author",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "4.6.4"
+  }
+}
